@@ -261,4 +261,4 @@ Potential next steps identified for the project include:
 
 ------------------------------------------------------------------------
 
-**Attire Detection --- See it. Find it. Style it.**
+
